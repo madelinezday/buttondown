@@ -53,7 +53,7 @@ You can automatically add tags to any new subscribers by modifying the HMTL code
        <input type="radio" id="fettucine" name="tag" value="fettucine" />
       <label for="fettucine">Fettucine Alfredo</label>
 
-As you can see above, the input <span class="bg-gray-200 font-mono p-0.5 rounded">type</span> is “radio,” and the input <span class="bg-gray-200 font-mono p-0.5 rounded">name</span> is “tag.” The input <span class="bg-gray-200 font-mono p-0.5 rounded">ID</span> and input <span class="bg-gray-200 font-mono p-0.5 rounded">value</span> are customizable for your reference, and the input <span class="bg-gray-200 font-mono p-0.5 rounded">label</span> is what your new subscriber will see as part of your subscription form. Here’s an example of how your HTML code might look with three new tag options. 
+ Here’s an example of how your HTML code might look with three new tag options. 
 
     <form
       action="
@@ -91,7 +91,7 @@ Here's what that code looks like when it's rendered.
 
 ![Alt Text](https://github.com/madelinezday/buttondown/blob/main/SubscriptionFormwithTags.gif?raw=true)
 
-Success! Now you can add as many tags as your heart desires. If you’re interested in learning more about tags, check out our doc on “[Building your subscriber base](https://docs.buttondown.email/getting-started/building-your-subscriber-base).” 
+Feel free to add as many tags as your heart desires. If you’re interested in learning more about tags, check out our doc on “[Building your subscriber base](https://docs.buttondown.email/getting-started/building-your-subscriber-base).” 
 
 ### Customize your form
 
