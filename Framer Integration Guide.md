@@ -14,22 +14,34 @@ Buttondown forms are easy to build, and can drive newsletter subscriptions direc
 ### Retrieve your form
 Our journey begins in the “Embedding & Sharing” section of your Buttondown [settings](https://buttondown.email/settings). Select the “As a Form” tab to find HTML code for adding a subscription form. Copy this code and keep it in your back pocket—you’ll need it later!
 
-![Alt Text](https://github.com/madelinezday/sidegig/blob/main/RetrieveHTML.gif?raw=true) 
+![Alt Text](https://github.com/madelinezday/buttondown/blob/main/GetHTML.gif?raw=true)
 
 ### Insert an "Embed" block
 
 Mosey on over to your canvas in [Framer](https://www.framer.com/). From here, click “Insert” and scroll through the dropdown menu until you arrive at “Utility.” Then click “Embed.” 
 
+![Alt Text](https://github.com/madelinezday/buttondown/blob/main/EmbedBlock.gif?raw=true)
+
 
 ### Switch your "Embed" type to "HTML"
 Click your newly embedded block, and glance over at the properties panel that pops up. 
 
+![Alt Text](https://github.com/madelinezday/buttondown/blob/main/SelectBlock.gif?raw=true)
+
 Scroll down to the “Embed” section and switch your “Embed” type to “HTML.” 
 
+![Alt Text](https://github.com/madelinezday/buttondown/blob/main/SwitchHTML.gif?raw=true) 
 
 ### Copy and paste your HTML form
+
+Remember that code you put in your back pocket? Pull it back out and paste it into the HTML field. 
+
+
+![Alt Text](https://github.com/madelinezday/buttondown/blob/main/PasteHTML.gif?raw=true)
+
 You’ve done it! Your new Buttondown form should look a little something like this. 
 
+![Alt Text](https://github.com/madelinezday/buttondown/blob/main/SubscriptionForm.gif?raw=true)
 
 ## Going Above & Beyond
 
@@ -77,37 +89,7 @@ As you can see above, the input <span class="bg-gray-200 font-mono p-0.5 rounded
 
 Here's what that code looks like when it's rendered. 
 
-<form
-  action="
-    https://buttondown.email/api/emails/
-  "
-  method="post"
-  target="popupwindow"
-  class="embeddable-buttondown-form"
->
-  <label for="email">Email</label>
-  <input
-    type="email"
-    name="email"
-    placeholder="you@example.com"
-  //>
-  <label for="email">What Is Your Favorite Pasta Dish?</label>
-  <br />
-  <input type="radio" id="fettucine" name="tag" value="fettucine" />
-  <label for="fettucine">Fettucine Alfredo</label>
-  <input type="radio" id="carbonara" name="tag" value="carbonara" />
-  <label for="carbonara">Spaghetti Carbonara</label>
-  <input type="radio" id="penne" name="tag" value="penne" />
-  <label for="penne">Penne alla Vodka</label><br />
-  <br />
-  <input type="hidden" value="1" name="embed" />
-  <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.email" target="_blank">
-        Powered by Buttondown.
-    </a>
-  </p>
-</form>
+![Alt Text](https://github.com/madelinezday/buttondown/blob/main/SubscriptionFormwithTags.gif?raw=true)
 
 Success! Now you can add as many tags as your heart desires. If you’re interested in learning more about tags, check out our doc on “[Building your subscriber base](https://docs.buttondown.email/getting-started/building-your-subscriber-base).” 
 
