@@ -14,7 +14,7 @@ Buttondown forms are easy to build, and can drive newsletter subscriptions direc
 ### Retrieve your form
 Our journey begins in the “Embedding & Sharing” section of your Buttondown [settings](https://buttondown.email/settings). Select the “As a Form” tab to find HTML code for adding a subscription form. Copy this code and keep it in your back pocket—you’ll need it later!
 
-![Alt Text](https://i.imgur.com/sRGqPEu.mp4) 
+![Alt Text](https://github.com/madelinezday/sidegig/blob/main/RetrieveHTML.gif?raw=true) 
 
 ### Insert an "Embed" block
 
