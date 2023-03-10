@@ -43,7 +43,7 @@ You’ve done it! Your new Buttondown form should look a little something like t
 
 ![Alt Text](https://github.com/madelinezday/buttondown/blob/main/SubscriptionForm.gif?raw=true)
 
-## Going Above & Beyond
+## Going Above and Beyond
 
 ### Add subscriber tags
 As your subscriber base grows (congrats!), you may want to organize it by assigning tags to individual subscribers. These tags can be used to sort your subscriber base, as well as to send out targeted email blasts. 
