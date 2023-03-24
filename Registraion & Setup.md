@@ -100,7 +100,7 @@ Already have a list of subscribers? Have no fear! You can upload that list to Bu
     
 -   Metadata (read more about metadata [here](https://docs.buttondown.email/getting-started/building-your-subscriber-base#adding-metadata-to-your-subscribers))
 
-Let’s say you have your subscriber database loaded into a Google or Excel spreadsheet. Simply toggle to “File,” and select “Download.” Then select “Comma-Separated Values (.csv)” to export your CSV file.
+Let’s say you have your subscriber database loaded into a Google or Excel spreadsheet. Toggle to “File,” and select “Download.” Then select “Comma-Separated Values (.csv)” to export your CSV file.
 
 ![Exporting a CSV from Google Sheets](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Exporting%20a%20CSV%20from%20Google%20Sheets.gif?raw=true)
 
@@ -153,7 +153,7 @@ You’ve done it! For further information about uploading images, adding custom 
 
 ### Schedule your newsletter
 
-You may want to schedule your newsletter to send at a specific date or time. Simply click the “Scheduling” button at the bottom of your draft. Set your target date and time, and double check your time zone before clicking “Save.” One last step: Make sure you click “Send” in the bottom right hand corner before exiting your draft. Buttondown will still send it at the time you specified, but it needs to get the official go-ahead from you clicking “Send”!
+You may want to schedule your newsletter to send at a specific date or time. Click the “Scheduling” button at the bottom of your draft. Set your target date and time, and double check your time zone before clicking “Save.” One last step: Make sure you click “Send” in the bottom right hand corner before exiting your draft. Buttondown will still send it at the time you specified, but it needs to get the official go-ahead from you clicking “Send”!
 
 ![Pop-up for scheduling newsletter](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Pop-up%20for%20scheduling%20newsletter.gif?raw=true)
 
