@@ -44,7 +44,7 @@ Once you’ve completed these three steps, click “Create an Account” and you
 
 ### Confirm your account
 
-Keep an eye out for a confirmation email from “notifications@buttondown.email.” Then click “Create an account” to make your account official!
+Keep an eye out for a confirmation email from “notifications@buttondown.email.” Then click the link in that to make your account official!
 
 ![Buttondown confirmation email](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Buttondown%20confirmation%20email.gif?raw=true)
 
