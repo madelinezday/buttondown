@@ -28,8 +28,7 @@ Enter your go-to email for receiving notifications, account updates, and billing
   
 Later on, if you decide to send your newsletter from the Buttondown server, your subscribers won’t see the email address that you registered with. Instead, they’ll see a Buttondown email address formatted as “username@mail.buttondown.email.” It’ll look something like this:
 
-IMAGE
-![Sample email address if sending from Buttondown server]
+![Sample email address if sending from Buttondown server](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Sample%20email%20address%20if%20sending%20from%20Buttondown%20server.png?raw=true) 
 
 You also have the option to send your newsletter from a [custom domain](https://docs.buttondown.email/getting-started/getting-a-custom-domain). It’s totally up to you, but if you choose to do this, then make sure your email address matches your domain in order to avoid any delivery issues.
 
@@ -40,16 +39,14 @@ You know the drill—use lots of numbers, letters, and symbols.
 
 Once you’ve completed these three steps, click “Create an Account” and you’ll be well on your way.
 
-IMAGE
-![Buttondown registration page]
+![Buttondown registration page](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Buttondown%20registration%20page.gif?raw=true)
 
 
 ### Confirm your account
 
 Keep an eye out for a confirmation email from “notifications@buttondown.email.” Then click “Create an account” to make your account official!
 
-IMAGE
-![Buttondown confirmation email]
+![Buttondown confirmation email](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Buttondown%20confirmation%20email.gif?raw=true)
 
 
 ## Crafting Your Newsletter's Look and Feel
@@ -68,8 +65,7 @@ With your username and email taken care of, we can move on to the fun part: Comi
 
 When you’re done filling out the details, your “General” settings should look a little something like this.
 
-IMAGE
-![“General” settings section]
+![“General” settings section](https://github.com/madelinezday/buttondown/blob/registration-&-setup/%E2%80%9CGeneral%E2%80%9D%20settings%20section.gif?raw=true)
 
 
 ### Build out your newsletter's "Scaffolding"
@@ -78,15 +74,14 @@ Your “Header” and “Footer” will appear at the top and bottom (respective
   
 In this section, you also have the option to customize each newsletter’s CSS, or style, with HTML. You can learn more about building out your newsletter’s CSS [here](https://docs.buttondown.email/advanced-features/customizing-your-emails).
 
-IMAGE
-![“Scaffolding” settings section]
+![“Scaffolding” settings section](https://github.com/madelinezday/buttondown/blob/registration-&-setup/%E2%80%9CScaffolding%E2%80%9D%20settings%20section.gif?raw=true)
 
 
 ### Establish your newsletter's "Branding"
 
 Your newsletter’s branding includes its color palette, or “Tint Color,” as well as its logo, or “Icon.” Your “Tint Color” will pop up as an accent in places like hyperlinks or your “Subscribe” button. Your “Icon” will appear on top of your newsletters, in your archives, and as part of your social “Share” button. Upload a square image (ideally a PNG) with a 300 x 300 resolution for the best results.
 
-![“Branding” settings section]
+![“Branding” settings section](https://github.com/madelinezday/buttondown/blob/registration-&-setup/%E2%80%9CBranding%E2%80%9D%20settings%20section.gif?raw=true)
 
 
 ## Sending Your First Newsletter
@@ -107,13 +102,11 @@ Already have a list of subscribers? Have no fear! You can upload that list to Bu
 
 Let’s say you have your subscriber database loaded into a Google or Excel spreadsheet. Simply toggle to “File,” and select “Download.” Then select “Comma-Separated Values (.csv)” to export your CSV file.
 
-IMAGE
-![Exporting a CSV from Google Sheets]
+![Exporting a CSV from Google Sheets](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Exporting%20a%20CSV%20from%20Google%20Sheets.gif?raw=true)
 
 Once you’ve completed each of the guided questions, click “Done,” and Buttondown will start importing your subscribers. Note that if you’re uploading a large quantity of subscribers, it may take a few hours to process. But when Buttondown is ready, you should be able to see your newly imported subscribers (along with their accompanying notes, tags, metadata, and more) in the “Subscribers” page.
 
-IMAGE
-![“Notes” for an imported subscriber]
+![“Notes” for an imported subscriber](https://github.com/madelinezday/buttondown/blob/registration-&-setup/%E2%80%9CNotes%E2%80%9D%20section%20for%20an%20imported%20subscriber.gif?raw=true)
 
 Visit our “[Importing Your Data](https://docs.buttondown.email/getting-started/importing-your-data)” doc to learn even more about downloading CSVs and importing subscribers, as well as importing past newsletter archives.
 
@@ -124,18 +117,15 @@ So you’ve found yourself in the “Emails” page. You may not have any newsle
 
 You’ll be transported to Buttondown’s intuitive writing interface, where you can easily toggle between “Preview Mode” and “Editor Mode.” When you’re ready, jump in to code your newsletter in either HTML or Markdown. Buttondown will automatically save your progress as you go!
 
-IMAGE 
-![Buttondown’s “Email” page and writing interface]
+![Buttondown’s “Email” page and writing interface](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Buttondown%E2%80%99s%20%E2%80%9CEmail%E2%80%9D%20page%20and%20writing%20interface.gif?raw=true)
 
 Once you’re happy with your newsletter’s subject and body text, you’ll be ready to send a draft. Click “Send Draft” and enter your preferred email address for previewing your newsletter. Then click “Add Recipient,” and off it goes!
 
-IMAGE
-![Pop-up for choosing draft recipients]
+![Pop-up for choosing draft recipients](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Pop-up%20for%20choosing%20draft%20recipients.gif?raw=true)
 
 Wait just a few moments, and your draft should pop up in your inbox with “[PREVIEW]” in the subject line.
 
-IMAGE 
-![Newsletter draft]
+![Newsletter draft](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Newsletter%20draft.gif?raw=true)
 
 
 ### Send your first newsletter
@@ -150,8 +140,7 @@ After you make any necessary edits to your draft, you’re almost ready to click
 
 Once you’ve double checked all the little details, it’s time to click “Send.” You’ll see a congratulatory pop-up with buttons to share your newsletter via social media or a copy-and-paste-able URL. And, in case of emergency, you’ll also have an option to “Undo” sending your newsletter.
 
-IMAGE
-![Pop-up after sending newsletter]
+![Pop-up after sending newsletter](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Pop-up%20after%20sending%20newsletter.gif?raw=true)
 
 Congratulations, you’ve done it! For further information about uploading images, adding custom unsubscribe links, sending out mail merges, and more, check out our detailed guide for “[Sending Your First Email](https://docs.buttondown.email/getting-started/sending-your-first-email).”
 
@@ -162,8 +151,7 @@ Congratulations, you’ve done it! For further information about uploading image
 
 You may want to schedule your newsletter to send at a specific date or time. Simply click the “Scheduling” button at the bottom of your draft. Set your target date and time, and double check your time zone before clicking “Save.” One last step: Make sure you click “Send” in the bottom right hand corner before exiting your draft. Buttondown will still send it at the time you specified, but it needs to get the official go-ahead from you clicking “Send”!
 
-IMAGE 
-![Pop-up for scheduling newsletter]
+![Pop-up for scheduling newsletter](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Pop-up%20for%20scheduling%20newsletter.gif?raw=true)
 
 Take a look at our “[Scheduling an Email](https://docs.buttondown.email/getting-started/scheduling-an-email)” doc for FAQs and further information.
 
