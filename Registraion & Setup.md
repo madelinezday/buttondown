@@ -167,7 +167,7 @@ You’ve sent your first newsletter, and now you’re ready to cultivate your su
 
 ### Organize your subscriber base
 
-[Tags](https://docs.buttondown.email/getting-started/building-your-subscriber-base#adding-tags-to-your-subscribers) can be used to sort your subscribers, as well as to send out targeted email blasts. Like tags, [metadata](https://docs.buttondown.email/getting-started/building-your-subscriber-base#adding-metadata-to-your-subscribers) can also provide additional context for subscribers. That context can come in handy when you’re searching for a specific set of subscribers.
+[Tags](https://docs.buttondown.email/getting-started/building-your-subscriber-base#adding-tags-to-your-subscribers) can be used to sort your subscribers, as well as to send out targeted email blasts. Like tags, [metadata](https://docs.buttondown.email/getting-started/building-your-subscriber-base#adding-metadata-to-your-subscribers) can also provide additional context for subscribers. That context can come in handy if you’re searching for a specific set of subscribers.
 
 Want to learn more about tags and metadata? Our “[Building Your Subscriber Base](https://docs.buttondown.email/getting-started/building-your-subscriber-base)” doc is the best way to do so.
 
@@ -179,7 +179,7 @@ You may choose to send and archive newsletters through a custom domain in order 
 
 ### Upgrade to a paid account
 
-Buttondown is free for your first hundred subscribers. But after that, we charge a small fee to help keep the lights on. Pay a visit to our and “[Billing](https://docs.buttondown.email/getting-started/billing)” doc to explore all of Buttondown’s [pricing](https://buttondown.email/pricing) options.
+Buttondown is free for your first hundred subscribers. After that, we charge a small fee to help keep the lights on. Pay a visit to our and “[Billing](https://docs.buttondown.email/getting-started/billing)” doc to explore all of Buttondown’s [pricing](https://buttondown.email/pricing) options.
 
 
 ### Schedule a chat with us
