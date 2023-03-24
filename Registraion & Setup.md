@@ -88,7 +88,7 @@ Your newsletter’s branding includes its color palette, or “Tint Color,” as
 
 ### Import your subscribers
 
-Already have a list of subscribers? Have no fear! You can upload that list to Buttondown as a [CSV](https://docs.buttondown.email/odds-and-ends/glossary#csv) (or "comma-separated values") file. Buttondown can automatically import the following values for each of your subscribers.
+Already have a list of subscribers? Have no fear! You can upload that list to Buttondown as a [CSV](https://docs.buttondown.email/odds-and-ends/glossary#csv) (or "comma-separated values") file. Buttondown can automatically import the following values for each of your subscribers:
 
 -   Email address
     
@@ -134,7 +134,7 @@ Wait just a few moments, and your draft should pop up in your inbox with “[PRE
 
 ### Send your first newsletter
 
-After you make any necessary edits to your draft, you’re almost ready to click “Send”—there are just a few other quick details to attend to. Here’s a checklist to make sure everything’s ship shape.
+After you make any necessary edits to your draft, you’re almost ready to click “Send”—there are just a few other quick details to attend to. Here’s a checklist to make sure everything’s ship shape:
 
 -   Have you checked all of your links?
     
@@ -146,7 +146,7 @@ Once you’ve double checked all the little details, it’s time to click “Sen
 
 ![Pop-up after sending newsletter](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Pop-up%20after%20sending%20newsletter.gif?raw=true)
 
-Congratulations, you’ve done it! For further information about uploading images, adding custom unsubscribe links, sending out mail merges, and more, check out our detailed guide for “[Sending Your First Email](https://docs.buttondown.email/getting-started/sending-your-first-email).”
+You’ve done it! For further information about uploading images, adding custom unsubscribe links, sending out mail merges, and more, check out our detailed guide for “[Sending Your First Email](https://docs.buttondown.email/getting-started/sending-your-first-email).”
 
 
 ## Going Above and Beyond
