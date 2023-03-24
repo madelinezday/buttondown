@@ -134,7 +134,7 @@ Wait just a few moments, and your draft should pop up in your inbox with “[PRE
 
 ### Send your first newsletter
 
-After you make any necessary edits to your draft, you’re almost ready to click “Send”—there are a few other quick details to attend to. Here’s a quick checklist to make sure everything’s ship shape.
+After you make any necessary edits to your draft, you’re almost ready to click “Send”—there are just a few other quick details to attend to. Here’s a quick checklist to make sure everything’s ship shape.
 
 -   Have you checked all of your links?
     
