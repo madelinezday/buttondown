@@ -153,7 +153,7 @@ You’ve done it! For further information about uploading images, adding custom 
 
 ### Schedule your newsletter
 
-You may want to schedule your newsletter to send at a specific date or time. You can do this by clicking the “Scheduling” button at the bottom of your draft. Set your target date and time, and double check your time zone before clicking “Save.” One last step: Make sure you click “Send” in the bottom right hand corner before exiting your draft. Buttondown will still send it at the time you specified, but it needs to get the official go-ahead from you clicking “Send”!
+You may want to schedule your newsletter to send at a specific date or time. You can do this by clicking the “Scheduling” button at the bottom of your draft. Set your target date and time, and double check your time zone before clicking “Save.” One last step: Make sure you click “Send” in the bottom right corner before exiting your draft. Buttondown will still send it at the time you specified, but it needs to get the official go-ahead from you clicking “Send”!
 
 ![Pop-up for scheduling newsletter](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Pop-up%20for%20scheduling%20newsletter.gif?raw=true)
 
