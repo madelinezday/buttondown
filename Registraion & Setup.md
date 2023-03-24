@@ -104,6 +104,10 @@ Let’s say you have your subscriber database loaded into a Google or Excel spre
 
 ![Exporting a CSV from Google Sheets](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Exporting%20a%20CSV%20from%20Google%20Sheets.gif?raw=true)
 
+Now let’s move back to Buttondown—specifically, the “Subscribers” page. From here, click the “Import” button to upload your CSV file. Once your file uploads, you’ll be guided through a series of questions to identify the columns of your CSV file.
+
+![Guided questions for importing subscribers](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Guided%20questions%20for%20importing%20subscribers.gif?raw=true)
+
 Once you’ve completed each of the guided questions, click “Done,” and Buttondown will start importing your subscribers. Note that if you’re uploading a large quantity of subscribers, it may take a few hours to process. But when Buttondown is ready, you should be able to see your newly imported subscribers (along with their accompanying notes, tags, metadata, and more) in the “Subscribers” page.
 
 ![“Notes” for an imported subscriber](https://github.com/madelinezday/buttondown/blob/registration-&-setup/%E2%80%9CNotes%E2%80%9D%20section%20for%20an%20imported%20subscriber.gif?raw=true)
