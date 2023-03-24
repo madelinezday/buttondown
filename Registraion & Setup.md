@@ -115,7 +115,7 @@ Visit our “[Importing Your Data](https://docs.buttondown.email/getting-started
 
 So you’ve found yourself in the “Emails” page. You may not have any newsletters there yet, but you will soon! Click the “New” button in the upper right corner to get started.
 
-You’ll be transported to Buttondown’s intuitive writing interface, where you can easily toggle between “Preview Mode” and “Editor Mode.” When you’re ready, jump in to code your newsletter in either HTML or Markdown. Buttondown will automatically save your progress as you go!
+You’ll be transported to Buttondown’s intuitive writing interface, where you can easily toggle between “Preview Mode” and “Editor Mode.” "Preview Mode" renders your Markdown or HTML draft in a more readable format. "Editor Mode" provides a tool bar for formatting your text, adding links, adding images, and more. When you’re ready, jump in to code your newsletter in either HTML or Markdown. Buttondown will automatically save your progress as you go!
 
 ![Buttondown’s “Email” page and writing interface](https://github.com/madelinezday/buttondown/blob/registration-&-setup/Buttondown%E2%80%99s%20%E2%80%9CEmail%E2%80%9D%20page%20and%20writing%20interface.gif?raw=true)
 
