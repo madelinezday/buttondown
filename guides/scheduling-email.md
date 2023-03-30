@@ -21,7 +21,7 @@ Do you want to send your email to your entire subscriber base, or only to a spec
 Let’s say that you’ve assigned tags according to how subscribers signed up for your email, and that you only want to send this particular email to subscribers who signed up through Linktree. Click the “Tags” button at the bottom of your email, and a list of your assigned tags will appear. From here, click “Linktree,” followed by “Save.” 
 
 
-![Pop-up for selecting tags](https://github.com/madelinezday/buttondown/blob/scheduling/select-tags.gif?raw=true)
+![Pop-up for selecting tags]()
 
 Choose as many tags as you’d like! Your email will go out to any and all subscribers with the selected tags.
 
