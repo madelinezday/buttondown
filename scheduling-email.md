@@ -8,15 +8,15 @@ To set this in motion, you’ll need:
 
 -   An email [draft](https://docs.buttondown.email/getting-started/registration-and-setup#draft-your-first-newsletter) that’s reviewed and ready to go
     
--   A [subscriber base](https://docs.buttondown.email/getting-started/building-your-subscriber-base) that’s excited for new content (Need to import your subscribers? Our “[Registration & Setup](https://docs.buttondown.email/getting-started/registration-and-setup#import-your-subscribers)” page will walk you through it.)
+-   A [subscriber base](https://docs.buttondown.email/getting-started/building-your-subscriber-base) that’s excited for new content (Need to import your subscribers? Our “[Registration & Setup](https://docs.buttondown.email/getting-started/registration-and-setup#import-your-subscribers)” page will walk you through it)
 
-That’s it! We’re ready to go.
+Now we're ready to go.
 
 ## Configuring Your Email
 
 ### Determine your recipients
 
-Do you want to send your email to your entire subscriber base, or only to a specific segment of your subscriber base? If it’s the latter, this is where tags come in handy. 
+Do you want to send your email to your entire subscriber base, or only to a specific segment of your subscriber base? If it’s the latter, this is where [tags](https://docs.buttondown.email/api-reference/tags) come in handy. 
 
 Let’s say that you’ve assigned tags according to how subscribers signed up for your email, and that you only want to send this particular email to subscribers who signed up through Linktree. Click the “Tags” button at the bottom of your email, and a list of your assigned tags will appear. From here, click “Linktree,” followed by “Save.” 
 
