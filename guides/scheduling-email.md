@@ -21,7 +21,7 @@ Do you want to send your email to your entire subscriber base, or only to a spec
 Let’s say that you’ve assigned tags according to how subscribers signed up for your email, and that you only want to send this particular email to subscribers who signed up through Linktree. Click the “Tags” button at the bottom of your email, and a list of your assigned tags will appear. From here, click “Linktree,” followed by “Save.” 
 
 
-![Pop-up for selecting tags]()
+![Pop-up for selecting tags](https://github.com/madelinezday/buttondown/blob/main/images/email-interface/scheduling-email:pop-up-for-selecting-tags.gif?raw=true)
 
 Choose as many tags as you’d like! Your email will go out to any and all subscribers with the selected tags.
 
@@ -31,7 +31,7 @@ Fun Fact: Even if you schedule your email to send days or weeks later, that emai
 
 Buttondown can schedule your email to send whenever you like—as long as it’s in the future. To set a specific date and time, click the “Scheduling” button at the bottom of your email draft. Fill in your target date and time, and double check that your time zone is correct before clicking “Save.”
 
-![Pop-up for selecting date and time](https://github.com/madelinezday/buttondown/blob/scheduling/scheduling-email-hi-res.mp4?raw=true)
+![Pop-up for selecting date and time](https://github.com/madelinezday/buttondown/blob/main/images/email-interface/scheduling-email:pop-up-for-selecting-date-and-time.mp4?raw=true)
 
 You’re almost there! Only one more step, which is…
 
@@ -39,7 +39,7 @@ You’re almost there! Only one more step, which is…
 
 Make sure you click “Send” in the bottom right corner before exiting your draft. Don’t worry—your email won’t actually send until the date and time you specified in the “Scheduling” pop-up.
 
-!["Send" Button](https://github.com/madelinezday/buttondown/blob/scheduling/click-send-hi-res.mp4?raw=true)
+!["Send" Button](https://github.com/madelinezday/buttondown/blob/main/images/email-interface/scheduling-email:pop-up-for-selecting-date-and-time.mp4?raw=true)
 
 You’ll see a congratulatory pop-up with buttons to share your email via social media or a copy-and-paste-able URL. And, in case of emergency, you’ll also have an option to “Undo” sending your email.
 
