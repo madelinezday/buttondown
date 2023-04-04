@@ -22,7 +22,7 @@ That’s it! You’re already well on your way to earning that 25% commission.
 
 Hop on over to the “[Referrals](https://buttondown.email/settings#referrals)” section of your administrative settings. Click on the button to “Learn more about referrals,” and you’ll come across your very own custom referral link. Copy that referral link, and you’ll be ready to start spreading the word about Buttondown.
 
-![Custom referral link](TK)
+![Custom referral link](https://github.com/madelinezday/buttondown/blob/main/images/settings/referrals:custom-referral-link.gif?raw=true)
 
 Just a little something to keep in mind: If your username changes, your referral link will change, too!
 
@@ -31,7 +31,7 @@ Just a little something to keep in mind: If your username changes, your referral
 
 When someone clicks on your referral link, they’ll be directed to the Buttondown landing page. From there, they can create their account and explore all the tools, tips, and tricks that Buttondown has to offer.
 
-![Audience view after clicking subscriber link](TK)
+![Audience view after clicking subscriber link](https://github.com/madelinezday/buttondown/blob/main/images/emails/referrals:subscriber-view.gif?raw=true)
 
 As an added bonus, if a new user signs up for a paid Buttondown account via your referral link, they’ll be offered $9 off the first month of their Buttondown subscription. Everybody wins!
 
@@ -40,13 +40,13 @@ As an added bonus, if a new user signs up for a paid Buttondown account via your
 
 Once someone signs up through your referral link, you’ll see a celebratory notification email in your inbox.
 
-![Notification email for new referral](TK)
+![Notification email for new referral](https://github.com/madelinezday/buttondown/blob/main/images/emails/referrals:notification-email.gif?raw=true)
 
 Click through the link in the notification email or manually toggle to the “Referrals” section of your Buttondown settings to view a full list of all the users you’ve referred.
 
-![Referrals section in Buttondown settings](TK)
+![Referrals section in Buttondown settings](https://github.com/madelinezday/buttondown/blob/main/images/settings/referrals:referrals-section.gif?raw=true)
 
-Cheers! You’ve just earned a 25% lifetime commission. You’ll receive your remittance via PayPal or Venmo on a monthly basis. If you’re earning your very first commission, you’ll receive a notification email asking for your preferred payment information. We'll send these notification emails at the beginning of each month.
+Cheers! When you see a new name pop up, that means you’ve just earned a 25% lifetime commission. You’ll receive your remittance via PayPal or Venmo on a monthly basis. If you’re earning your very first commission, you’ll receive a notification email asking for your preferred payment information. We'll send these notification emails at the beginning of each month.
 
 
 ## Going Above & Beyond
