@@ -5,7 +5,7 @@ Teamwork makes the dream work—especially if your dream is to send out a top-no
 
 ## Getting Started
 
-Here’s what you’ll need to create your dream team:
+Here’s what you’ll need to create your team:
 
 -   A paid Buttondown account. The “Teams” tool is a paid feature—visit our [pricing page](https://buttondown.email/pricing) to learn more about upgrading your account!
     
@@ -24,20 +24,20 @@ At this point, you’ll be able to determine the permissions you’ll allow your
 
 Once you’ve determined your teammate’s permissions, go ahead and click “Invite” to make it official!
 
-![Pop-up to invite teammates]()
+![Pop-up to invite teammates](https://github.com/madelinezday/buttondown/blob/main/images/settings/teams:pop-up-to-invite-new-teammate-hi-res.mp4?raw=true)
 
 
 ### Confirm new teammates
 
 Once you’ve invited your teammate, they’ll receive a notification email like this…
 
-![Email invitation to collaborate]()
+![Email invitation to collaborate](https://github.com/madelinezday/buttondown/blob/main/images/emails/teams:email-invite-to-collaborate.gif?raw=true)
 
 Your teammate can click through the link in the notification email to accept your invitation. If they already have a Buttondown account, they’ll be directed to sign in with their username and password. If they don’t have an account, a free account will be automatically created for them.
 
 After your teammate’s all settled in, they’ll be able to dive right in to working on your newsletter. At this time, you’ll also see their status change from “Pending” to “Accepted” in the “[Team](https://buttondown.email/settings#team)” section of your settings.
 
-![“Team” status]()
+![“Team” status](https://github.com/madelinezday/buttondown/blob/main/images/settings/teams:team-status.gif?raw=true)
 
 Woohoo! Your Buttondown team just got a little bit bigger. Go ahead, add as many teammates as you like—the sky’s the limit! No matter how many teammates are collaborating on your newsletter, your “Author” name will always be the same. You can always change your newsletter’s “Author” name in your “[General](https://buttondown.email/settings#general)” settings.
 
@@ -51,7 +51,7 @@ We’re working on adding a way for you to edit your teammates’ permissions. I
 
 Stuff happens! If someone’s not being a team player, you can revoke their access to your newsletter. To do this, head back to the “[Team](https://buttondown.email/settings#team)” section of your settings, and click the three dots next to your teammate’s email. Select “Revoke,” and your teammate’s permissions will update immediately.
 
-![Pop-up to revoke permissions]()
+![Pop-up to revoke permissions](https://github.com/madelinezday/buttondown/blob/main/images/settings/teams:pop-up-to-revoke-permissions.gif?raw=true)
 
 
 ### Toggle between multiple newsletters
@@ -60,6 +60,6 @@ If you’re on a team or two, you might be juggling several newsletters at once.
 
 If you'd like to switch gears, click on the newsletter name in the upper left hand corner. From here, you’ll be able to choose your own adventure—or rather, newsletter!
 
-![Menu to select newsletter]()
+![Menu to select newsletter](https://github.com/madelinezday/buttondown/blob/main/images/settings/teams:menu-to-select-newsletter.gif?raw=true)
 
 Curious to learn more about adding new newsletters to your account? Our doc on “[Managing Multiple Newsletters](https://docs.buttondown.email/advanced-features/managing-multiple-newsletters)” is the best place to go.
