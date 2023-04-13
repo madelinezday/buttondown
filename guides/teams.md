@@ -29,7 +29,7 @@ Once you’ve determined your teammate’s permissions, go ahead and click “In
 
 ### Confirm new teammates
 
-Once you’ve invited your teammate, they’ll receive a notification email like this…
+After you’ve invited your teammate, they’ll receive a notification email like this…
 
 ![Email invitation to collaborate](https://github.com/madelinezday/buttondown/blob/main/images/emails/teams:email-invite-to-collaborate.gif?raw=true)
 
