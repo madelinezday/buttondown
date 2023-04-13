@@ -35,7 +35,7 @@ After you’ve invited your teammate, they’ll receive a notification email lik
 
 Your teammate can click through the link in this notification email to accept your invitation. If they already have a Buttondown account, they’ll be directed to sign in with their username and password. If they don’t have an account, a free account will be automatically created for them.
 
-After your teammate’s all settled in, they’ll be able to dive right in to working on your newsletter. At this time, you’ll also see their status change from “Pending” to “Accepted” in the “[Team](https://buttondown.email/settings#team)” section of your settings.
+When your teammate’s all settled in, they’ll be able to dive right in to working on your newsletter. At this time, you’ll also see their status change from “Pending” to “Accepted” in the “[Team](https://buttondown.email/settings#team)” section of your settings.
 
 ![“Team” status](https://github.com/madelinezday/buttondown/blob/main/images/settings/teams:team-status.gif?raw=true)
 
