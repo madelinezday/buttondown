@@ -7,7 +7,7 @@ Teamwork makes the dream work—especially if your dream is to send out a top-no
 
 Here’s what you’ll need to create your team:
 
--   A paid Buttondown subscription. The “Teams” tool is a paid feature—visit our [pricing page](https://buttondown.email/pricing) to learn more about upgrading!
+-   A paid Buttondown subscription. The “Teams” tool is a paid feature—visit our "[Pricing](https://buttondown.email/pricing)" page to learn more about upgrading!
     
 -   A username, email address, author name, and description for your newsletter. Our “[Registration & Setup](https://docs.buttondown.email/getting-started/registration-and-setup)” guide will help you get your newsletter up and running!
  
