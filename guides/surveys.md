@@ -40,7 +40,7 @@ Down the line, if you’d like to make an adjustment to your survey, feel free t
 
 ![“Preview” section in pop-up](https://github.com/madelinezday/buttondown/blob/main/images/surveys/surveys:preview-section-in-pop-up.gif?raw=true)
 
-### Copy your code
+### Copy your survey code
 
 At this point, your preview’s looking good and you’re ready to publish your survey. Before clicking “Create,” take a moment to copy your survey’s code in the “Usage” section. You’ll need this code to render your survey in your email.
 
@@ -56,7 +56,7 @@ Once you’ve copied your code, all that’s left to do is to click “Create”
 
 ## Sending Your Survey
 
-### Preview your survey
+### Preview your survey in your email
 
 You’ve drafted up your email and now all it needs is the cherry on top: Your survey!
 
