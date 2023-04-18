@@ -146,6 +146,6 @@ Within a few moments, you'll have a detailed CSV file containing your subscriber
 
 ### Add tags and metadata
 
-Looking for new ways to organize and analyze your subscriber base? Check out our guides on [tags](https://docs.buttondown.email/advanced-features/tags-vs-newsletters) and [metadata](https://docs.buttondown.email/advanced-features/metadata) for ideas!
+Looking for new ways to organize and analyze your subscriber base? Check out our guides on "[Tags](https://docs.buttondown.email/advanced-features/tags-vs-newsletters)" and "[Metadata](https://docs.buttondown.email/advanced-features/metadata)" for ideas!
 
 
