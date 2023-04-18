@@ -126,7 +126,7 @@ Toggle to the “[Surveys](https://buttondown.email/surveys)” tab of your news
 
 ### Export your survey's responses
 
-Want to analyze your survey’s responses in more detail? We recommend exporting your survey’s data as a CSV file so that you can cross-reference it with your subscribers’ tags, metadata, and more.
+Want to analyze your survey’s responses in more detail? We recommend exporting your survey’s data as a CSV file so that you can cross-reference it with other variables like tags, metadata, and more. 
 
 If you’re already in your newsletter’s “[Surveys](https://buttondown.email/surveys)” tab, you can export this data by clicking the little check mark next to your desired survey and then clicking “Export” in the upper right hand corner.
 
