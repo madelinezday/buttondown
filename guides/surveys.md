@@ -132,9 +132,9 @@ If you’re already in your newsletter’s “[Surveys](https://buttondown.email
 
 ![“Export” button](https://github.com/madelinezday/buttondown/blob/main/images/surveys/surveys:export-button-2.gif?raw=true)
 
-Shortly after you hit the “Export” button, you’ll be prompted to download your data. Just note that it may take a moment or two to show up!
+Shortly after you hit the “Export” button, you’ll be prompted to download your data.
   
-Alternatively, you can also navigate to the “[Exports](https://buttondown.email/settings#exports)” section of your general settings. Click on your most recent export, and the download will begin automatically.
+Alternatively, you can navigate to the “[Exports](https://buttondown.email/settings#exports)” section of your general settings. Click on your most recent export, and your download will begin automatically.
 
 ![“Export” section in Buttondown “Features” settings](https://github.com/madelinezday/buttondown/blob/main/images/settings/surveys:exports-section-in-settings.gif?raw=true)
 
