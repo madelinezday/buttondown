@@ -16,7 +16,7 @@ Now let’s get you the droids—er, answers—that you’re looking for.
 
 Venture to the “[Surveys](https://buttondown.email/surveys)” tab of your newsletter and click “New.” You’ll encounter a pop-up that will guide you through the process of creating your survey. Your first task? Coming up with a question to ask your subscribers.
 
-![Pop-up to create new survey]()
+![Pop-up to create new survey](https://github.com/madelinezday/buttondown/blob/main/images/surveys/surveys:pop-up-to-create-new-survey.gif?raw=true)
 
 Each survey has room for one question and one question only, so make it count! However, you can always include multiple surveys in a single email if you have more than one question to ask.
 
@@ -26,13 +26,13 @@ Next up, devise an ID for your survey in the “Code” field. This ID is just f
 
 No worries about punctuation here—in fact, using anything except letters (A–Z) and numbers (0–9) will result in an error message.
 
-![“Code” field in pop-up]()
+![“Code” field in pop-up](https://github.com/madelinezday/buttondown/blob/main/images/surveys/surveys:code-field-in-pop-up.gif?raw=true)
 
 ### Provide survey responses
 
 The “Answers” field is where any and all possible survey responses should go. List out each of your responses (e.g. “R2-D2,” “C-3PO,” and “BB-8”) on separate lines without any punctuation. Buttondown will take care of the formatting for you!
 
-![“Answers” field in pop-up]()
+![“Answers” field in pop-up](https://github.com/madelinezday/buttondown/blob/main/images/surveys/surveys:answers-field-in-pop-up.gif?raw=true)
 
 ### Preview your survey
 
@@ -40,7 +40,7 @@ Get a sneak peek of your survey in the “Preview” section of the pop-up. This
 
 Down the line, if you’d like to make an adjustment to your survey, feel free to reach out to us at support@buttondown.email for assistance. However, whether your changes are big or small, the best way to edit your survey will be to create a new survey from scratch.
 
-![“Preview” section in pop-up]()
+![“Preview” section in pop-up](https://github.com/madelinezday/buttondown/blob/main/images/surveys/surveys:preview-section-in-pop-up.gif?raw=true)
 
 ### Copy your code
 
@@ -48,11 +48,11 @@ At this point, your preview’s looking good and you’re ready to publish your 
 
 Each survey’s code will always follow the same format. Here’s a quick example:
 
-![Sample survey code]()
+	{{ survey.code }}
 
 In this case, “Code” refers to the text you used to populate the “Code” field. Here’s a more “real world” example:
 
-![“Usage” section in pop-up]()
+![“Usage” section in pop-up](https://github.com/madelinezday/buttondown/blob/main/images/surveys/surveys:usage-section-in-pop-up.gif?raw=true)
 
 Once you’ve copied your code, all that’s left to do is to click “Create”! In just a few moments, your survey will be published and ready to share with your subscribers.
 
@@ -64,13 +64,13 @@ You’ve drafted up your email and now all it needs is the cherry on top: Your s
 
 Here’s where that code you copied from the “Usage” section will come in handy. Simply paste the code where you’d like your survey to appear.
 
-![Email draft in writing interface]()
+![Email draft in writing interface](https://github.com/madelinezday/buttondown/blob/main/images/email-interface/surveys:email-draft-in-writing-interface.gif?raw=true)
 
 You won’t be able to see your rendered survey in your email writing interface “Preview,” so we recommend sending an email draft in order to make sure your survey’s ship shape. (Need a refresher on sending email drafts? Our “[Getting Started](https://docs.buttondown.email/getting-started/registration-and-setup#draft-your-first-newsletter)” page is the best place to go!)
 
 Here’s what your survey might look like as part of your email draft:
 
-![Email draft in inbox]()
+![Sample email draft with survey](https://github.com/madelinezday/buttondown/blob/main/images/emails/surveys:email-draft-in-inbox.gif?raw=true)
 
 Note that if you try to click through the survey in this draft email, the buttons won’t work. That’s totally normal! Your survey will only record responses from subscribers who receive your finished email. This ensures that your survey results are as accurate as possible—more on this later!
 
@@ -106,7 +106,7 @@ If the rest of your email is all set, that means it’s time to click “Send”
 
 Here’s an example of what any given subscriber will see when they engage with your survey:
 
-![Completed email with survey]()
+![Completed email with survey](https://github.com/madelinezday/buttondown/blob/main/images/emails/surveys:completed-survey.gif?raw=true)
 
 ## Analyzing Your Survey
 
@@ -126,7 +126,7 @@ You’ve put the work in, now it’s time to rea(d) the rewards!
 
 Toggle to the “[Surveys](https://buttondown.email/surveys)” tab of your newsletter and click on the three dots to the far right of your survey’s ID. When the drop-down menu appears, select “Answers” to view a breakdown of your survey’s responses to date, as well as an accompanying graph.
 
-![Survey responses]()
+![Survey responses](https://github.com/madelinezday/buttondown/blob/main/images/surveys/surveys:survey-responses.gif?raw=true)
 
 ### Export your survey's responses
 
@@ -134,17 +134,17 @@ Want to analyze your survey’s responses in more detail? We recommend exporting
 
 If you’re already in your newsletter’s “[Surveys](https://buttondown.email/surveys)” tab, you can export this data by clicking the little check mark next to your desired survey and then clicking “Export” in the upper right hand corner.
 
-![“Export” button]()
+![“Export” button](https://github.com/madelinezday/buttondown/blob/main/images/surveys/surveys:export-button-2.gif?raw=true)
 
 Shortly after you hit the “Export” button, you’ll be prompted to download your data. Just note that it may take a moment or two to show up!
   
 Alternatively, you can also navigate to the “[Exports](https://buttondown.email/settings#exports)” section of your general settings. From here, click on your most recent export and the download will begin automatically.
 
-![“Export” section in Buttondown “Features” settings]()
+![“Export” section in Buttondown “Features” settings](https://github.com/madelinezday/buttondown/blob/main/images/settings/surveys:exports-section-in-settings.gif?raw=true)
 
 Within a few moments of downloading, you should have a detailed CSV file containing your subscribers’ emails and survey responses.
 
-![Exported CSV file of survey responses]()
+![Exported CSV file of survey responses](https://github.com/madelinezday/buttondown/blob/main/images/spreadsheets/surveys:exported-csv-file.gif?raw=true)
 
 Congratulations! You’ve just deployed your first survey. Use this information wisely, padawan.
 
