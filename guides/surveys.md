@@ -26,7 +26,7 @@ Next up, devise an ID for your survey in the “Code” field using letters (A�
 
 ![“Code” field in pop-up](https://github.com/madelinezday/buttondown/blob/main/images/surveys/surveys:code-field-in-pop-up.gif?raw=true)
 
-### Provide survey responses
+### Provide your survey's responses
 
 The “Answers” field is where any and all possible survey responses should go. List out each of your responses (e.g. “R2-D2,” “C-3PO,” and “BB-8”) on separate lines without any punctuation. Buttondown will take care of the formatting for you!
 
