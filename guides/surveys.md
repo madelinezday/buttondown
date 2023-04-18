@@ -56,7 +56,7 @@ Once you’ve copied your code, all that’s left to do is to click “Create”
 
 ## Sending Your Survey
 
-### Preview your survey in your email
+### Preview your survey in an email
 
 You’ve drafted up your email and now all it needs is the cherry on top: Your survey!
 
