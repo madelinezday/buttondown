@@ -30,7 +30,7 @@ Earning money through your newsletter can be fun. Figuring out the logistics, le
 
 Buttondown integrates seamlessly with Stripe. We’ve even built a shortcut right into the “Paid Subscriptions” section of your Buttondown settings.
 
-![Link to sign up for Stripe through Buttondown]()
+![Link to sign up for Stripe through Buttondown](https://github.com/madelinezday/buttondown/blob/main/images/settings/monetizing:link-to-sign-up-for-stripe-tax-hi-res.gif?raw=true)
 
 Once you confirm your new Stripe account’s email and password, you’ll be guided through a series of questions to activate payments. Stripe will ask for various personal details including your bank information as well as the last four digital of your social security number. You’ll also be prompted to enter business-related details such as a summary of your newsletter, along with a description of how often you’ll fulfill “orders” for your subscribers. For a step-by-step guide on completing this activation process, check out Stripe’s doc on how to “Activate Your Account.”
 
@@ -38,17 +38,17 @@ Once you confirm your new Stripe account’s email and password, you’ll be gui
 
 From credit cards to virtual wallets to bank debits and beyond, [Stripe](https://stripe.com/) works with dozens of different payment methods. You can select as many payment methods as your heart desires by navigating to the “Payment Methods” page from your “Product Settings.” Here’s a glimpse of what this page will look like:
 
-![“Payment Methods” page in Stripe]()
+![“Payment Methods” page in Stripe](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:stripe-payment-methods-hi-res.gif?raw=true)
 
 Once you’re satisfied with your choices, go to the “Payments” button in your dashboard to create a new payment link. For simplicity’s sake, let’s use Stripe’s no-code checkout page. 
 
-![“Payment Links” page in Stripe]()
+![“Payment Links” page in Stripe](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:page-to-create-payment-link.mp4?raw=true)
 
 First, make sure that your checkout “Type” is set to “Products or Subscriptions.” Then add a new “Product” by filling in the name, description, price, and billing period for your newsletter.
 
 When you’re ready, go ahead and publish your link. You’ll be directed to an overview page where you can copy your payment link as a URL, send it as a QR code, or configure it as a “Subscribe” button for your newsletter or website.
 
-![Stripe’s payment link editor for subscriptions]()
+![Stripe’s payment link editor for subscriptions](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:finished-payment-link-hi-res.gif?raw=true)
 
 It’s almost time to pop open the bubbly and celebrate your brand-new business. There’s just one more detail we have to sort out! 
 
@@ -72,15 +72,15 @@ Buttondown automatically adds an extended version of this shortcode to the foote
 
 You can always edit your footer in the “[Scaffolding](https://buttondown.email/settings#scaffolding)” section of your Buttondown settings. Here’s what that process looks like:
 
-![Buttondown’s “Scaffolding” settings]()
+![Buttondown’s “Scaffolding” settings](https://github.com/madelinezday/buttondown/blob/main/images/settings/monetizing:email-footer-settings-hi-res.gif?raw=true)
 
 And here’s how that code will translate to your email footer:
 
-![Sample email with archive link for paid subscribers]
+![Sample email with archive link for paid subscribers](https://github.com/madelinezday/buttondown/blob/main/images/emails/monetizing:sample-email-with-archive-link-in-footer-hi-res.gif?raw=true)
 
 Is shortcode not your style? Instead, venture to your “Subscribers” page in Buttondown and click any given paid subscribers’ email address. Then select the “Archives” button from the menu that pops up. This button will generate a personalized link that you can use to manually invite that subscriber.
 
-![Buttondown settings for premium subscriber]()
+![Buttondown settings for premium subscriber](https://github.com/madelinezday/buttondown/blob/main/images/subscribers/monetizing:premium-subscriber-notes-hi-res.gif?raw=true)
 
 One last thing: No matter the method you choose, any given link will expire when a subscriber’s paid subscription lapses. That means one less thing for you to worry about! 
 
@@ -96,7 +96,7 @@ Want to give prospective subscribers a sneak peek of your paid content? You can 
 
 Hop on over to your “Payment Links” page. Click the three dots next to your payment link in order to edit your link’s settings. Under the “Options” section of the link editor, find the box marked “Include a Free Trial.” Check that box and specify the number of days you’d like to include in that trial. 
 
-![Free trial options in Stripe’s payment link editor]()
+![Free trial options in Stripe’s payment link editor](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:free-trial-button-in-stripe-hi-res.gif?raw=true)
 
 This setting in Stripe will allow all prospective subscribers to register for a free trial. 
 
@@ -106,7 +106,7 @@ The Buttondown team is happy to help you create and send manual coupon codes for
 
 However, it’s also possible (and likely faster) to create coupon codes through Stripe. You can do that by Clicking “Allow Promotion Codes” in the advanced settings of your payment link editor. 
 
-![Advanced settings in Stripe’s payment link editor]()
+![Advanced settings in Stripe’s payment link editor](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:promo-code-hi-res.gif?raw=true)
 
 For further information, follow along with Stripe’s “Discounts For Subscriptions” doc.
 
@@ -124,7 +124,7 @@ The beauty of the pay-as-you-wish model is that it encourages subscribers to sup
 
 If you’re interested in switching to this model, you can start by changing your payment link “Type” from “Products or Subscriptions” to “Customers Choose What They Pay.” From here, you can enter your newsletter’s title and description. You can also add a suggested one-time payment amount, or alternatively, a payment limit. 
 
-![Stripe’s payment link editor for pay-as-you-wish model]()
+![Stripe’s payment link editor for pay-as-you-wish model](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:pay-as-you-wish-settings-hi-res.gif?raw=true)
 
 Curious to learn more about setting up and customizing your payments using the pay-as-you-wish model? We recommend Stripe’s doc on “Letting Customers Choose What to Pay.”
 
