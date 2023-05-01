@@ -20,9 +20,9 @@ So you’re thinking of switching your newsletter from a free subscription model
 
 -   Paid subscriptions will automatically renew at the end of your designated billing cycle, whether that’s once a month or once a year. This spares your subscribers from having to manually renew their subscriptions—while also generating more revenue for you!
     
--   If you’re a subscriber and you decide that you no longer want to receive a paid newsletter, simply click “Unsubscribe” as you would with any other newsletter. Pro tip: You can always downgrade your subscription by unsubscribing and then re-subscribing for free.
+-   If you’re a subscriber and you decide that you no longer want to receive a paid newsletter, simply click “Unsubscribe” as you would with any other newsletter. Pro tip: You can downgrade your subscription by unsubscribing and then re-subscribing for free.
 
-While these settings can’t be changed in Buttondown, you can customize your payments in [Stripe](https://stripe.com/).
+While these defaults can’t be changed in Buttondown, you can always customize your billing cycle and payment settings in [Stripe](https://stripe.com/).
 
 ### Integrate Buttondown with Stripe
 
