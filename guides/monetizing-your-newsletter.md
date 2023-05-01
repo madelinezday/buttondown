@@ -22,7 +22,7 @@ So you’re thinking of switching your newsletter from a free subscription model
     
 -   If you’re a subscriber and you decide that you no longer want to receive a paid newsletter, simply click “Unsubscribe” as you would with any other newsletter. Pro tip: You can downgrade your subscription by unsubscribing and then re-subscribing for free.
 
-While these defaults can’t be changed in Buttondown, you can always customize your billing cycle and payment settings in [Stripe](https://stripe.com/).
+While these practices are defaults in Buttondown, you can always customize your billing cycle and payment settings in [Stripe](https://stripe.com/).
 
 ### Integrate Buttondown with Stripe
 
