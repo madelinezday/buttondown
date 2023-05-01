@@ -36,7 +36,7 @@ Follow along with our step-by-step [Stripe integration guide] to learn how to ac
 
 ### Share your paid newsletter archive
 
-Did you know that you can reward paid subscribers by giving them VIP access to your paid newsletter archives? There are two ways to go about this: Using shortcode or inviting subscribers manually. 
+Did you know that you can reward paid subscribers by giving them VIP access to your newsletter archives? There are two ways to go about this: Using shortcode or inviting subscribers manually. 
 
 Want to go with option number one? If so, If so, use this code snippet to generate a unique-per-subscriber link to your newsletter archive:
 
