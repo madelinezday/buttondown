@@ -56,7 +56,7 @@ And here’s how that code will translate to your email footer:
 
 If code's not your style, you can venture to your “Subscribers” page in Buttondown and click any given paid subscribers’ email address. Then select the “Archives” button from the menu that pops up. This button will generate a personalized link that you can use to manually invite that subscriber.
 
-![Buttondown settings for premium subscriber](https://github.com/madelinezday/buttondown/blob/main/images/subscribers/monetizing:premium-subscriber-notes-hi-res.gif?raw=true)
+![Buttondown settings for premium subscribers](https://github.com/madelinezday/buttondown/blob/main/images/subscribers/monetizing:premium-subscriber-notes-hi-res.gif?raw=true)
 
 One last thing: No matter the method you choose, any given link will expire when a subscriber’s paid subscription lapses. That means one less thing for you to worry about! 
 
@@ -80,7 +80,7 @@ This setting will allow *all* prospective subscribers to register for a free tri
 
 The Buttondown team is happy to help you create and send manual promo codes for discount subscriptions. Reach out to us at support@buttondown.email, and we’ll get your coupon code set up ASAP. 
 
-However, it’s also possible (and likely faster) to create promo codes through Stripe. You can do that by Clicking “Allow Promotion Codes” in the advanced settings of your payment link editor. 
+However, it’s also possible (and likely faster) to create promo codes through [Stripe]((https://stripe.com/docs/tax). You can do that by Clicking “Allow Promotion Codes” in the advanced settings of your payment link editor. 
 
 ![Advanced settings in Stripe’s payment link editor](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:promo-code-hi-res.gif?raw=true)
 
@@ -100,7 +100,7 @@ The beauty of the pay-as-you-wish model is that it encourages subscribers to sup
 
 If you’re interested in switching to this model, you can start by changing your payment link “Type” from “Products or Subscriptions” to “Customers Choose What They Pay.” From here, you can enter your newsletter’s title and description. You can also add a suggested one-time payment amount, or alternatively, a payment limit. 
 
-![Stripe’s payment link editor for pay-as-you-wish model](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:pay-as-you-wish-settings-hi-res.gif?raw=true)
+![Stripe’s payment link editor for a pay-as-you-wish model](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:pay-as-you-wish-settings-hi-res.gif?raw=true)
 
 Curious to learn more about setting up and customizing your payments using the pay-as-you-wish model? We recommend Stripe’s doc on “[Letting Customers Choose What to Pay](https://stripe.com/docs/payments/checkout/pay-what-you-want).”
 
