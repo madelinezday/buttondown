@@ -26,7 +26,7 @@ While these practices are defaults in Buttondown, you can always customize your 
 
 ### Integrate Buttondown with Stripe
 
-Buttondown integrates seamlessly with Stripe to automate payments and taxes related to your newsletter. We’ve even built a shortcut right into the “Paid Subscriptions” section of your Buttondown settings.
+Buttondown integrates seamlessly with Stripe to automate payments and taxes related to your newsletter. We’ve even built a shortcut right into the “Paid Subscriptions” section of your Buttondown [settings](https://buttondown.email/settings).
 
 ![Link to sign up for Stripe through Buttondown](https://github.com/madelinezday/buttondown/blob/main/images/settings/monetizing:link-to-sign-up-for-stripe-tax-hi-res.gif?raw=true)
 
@@ -74,13 +74,13 @@ Hop on over to your “Payment Links” page, then click the three dots next to 
 
 ![Free trial options in Stripe’s payment link editor](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:free-trial-button-in-stripe-hi-res.gif?raw=true)
 
-This setting will allow *all* prospective subscribers to register for a free trial. If you'd rather only offer free content to a select few subscribers, we recommend sending promo codes. 
+This setting will allow *all* prospective subscribers to register for a free trial. If you'd rather only offer discounted content to a select few subscribers, we recommend sending promo codes. 
 
 ### Send promo codes
 
-The Buttondown team is happy to help you create and send manual promo codes for discount subscriptions. Reach out to us at support@buttondown.email, and we’ll get your coupon code set up ASAP. 
+The Buttondown team is happy to help you create and send manual promo codes for discount subscriptions. Reach out to us at support@buttondown.email, and we’ll get your promo code set up ASAP. 
 
-However, it’s also possible (and likely faster) to create promo codes through [Stripe]((https://stripe.com/docs/tax). You can do that by Clicking “Allow Promotion Codes” in the advanced settings of your payment link editor. 
+However, it’s also possible (and likely faster) to create promo codes through [Stripe](https://stripe.com/docs/tax). You can do that by Clicking “Allow Promotion Codes” in the advanced settings of your payment link editor. 
 
 ![Advanced settings in Stripe’s payment link editor](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:promo-code-hi-res.gif?raw=true)
 
@@ -96,7 +96,7 @@ While Buttondown doesn’t explicitly offer different payment tiers, it does let
 
 ### Set up a pay-as-you-wish model
 
-The beauty of the pay-as-you-wish model is that it encourages subscribers to support your writing without limiting their access to your content. You can set up a pay-as-you wish model through Stripe by creating a new payment method or editing an existing payment method. However, note that this model does not support recurring payments. In other words, customers will only have to pay once to gain access to your paid newsletter, as opposed to once every billing period.
+The beauty of the pay-as-you-wish model is that it encourages subscribers to support your writing without limiting their access to your content. You can set up a pay-as-you wish model through Stripe by creating a new payment link or editing an existing payment link. However, note that this model does not support recurring payments. In other words, customers will only have to pay once to gain access to your paid newsletter, as opposed to once every billing period.
 
 If you’re interested in switching to this model, you can start by changing your payment link “Type” from “Products or Subscriptions” to “Customers Choose What They Pay.” From here, you can enter your newsletter’s title and description. You can also add a suggested one-time payment amount, or alternatively, a payment limit. 
 
