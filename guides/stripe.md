@@ -1,6 +1,6 @@
 ﻿# Stripe
 
-Earning money through your newsletter can be fun. Figuring out logistics, less so. But have no fear! [Stripe](https://stripe.com/)'s here to save the day by collecting payments and reporting taxes for your Buttondown newsletter.
+Earning money through your newsletter can be fun. Figuring out logistics, less so. But have no fear! [Stripe](https://stripe.com/)'s here to save the day by collecting payments and reporting taxes on behalf of your Buttondown newsletter.
 
 ## Getting Started
 
