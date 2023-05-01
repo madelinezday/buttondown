@@ -6,7 +6,7 @@ Whether you’d like to set up a formal paid subscription program or a fluid pay
 
 To jump-start your paid newsletter, you’ll need:
 
--   A [Stripe](https://stripe.com/docs/tax) account. Don’t worry if you don’t have one yet—you can follow along with our [Stripe integration guide] to get your account up and running! 
+-   A [Stripe](https://stripe.com/docs/tax) account. Don’t worry if you don’t have one yet—our [Stripe integration guide] will help you get your account up and running! 
     
 -   A [paid](https://buttondown.email/pricing) Buttondown account, starting at our “[Basic](https://buttondown.email/pricing)” tier. Buttondown keeps the lights on by charging for premium tools, including “Paid Subscriptions.” This business model not only incentivizes us to create the best writing tool possible, but it also means that we’ll never need to take a cut of your hard-won newsletter earnings.
 
@@ -30,7 +30,7 @@ Buttondown integrates seamlessly with Stripe to automate payments and taxes rela
 
 ![Link to sign up for Stripe through Buttondown](https://github.com/madelinezday/buttondown/blob/main/images/settings/monetizing:link-to-sign-up-for-stripe-tax-hi-res.gif?raw=true)
 
-Follow along with our step-by-step [Stripe integration guide] to learn how to activate your account and create payment links for paid subscriptions.
+Follow along with our step-by-step [Stripe integration guide] to learn how to activate your account and create payment links for your newsletter.
 
 ## Offering Perks for Paid Subscribers
 
