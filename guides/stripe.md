@@ -1,10 +1,12 @@
 ﻿# Stripe
 
-Earning money through your newsletter can be fun. Figuring out the logistics, less so. But [Stripe](https://stripe.com/) is here to help by automatically collecting payments and reporting taxes on your behalf.
+Earning money through your newsletter can be fun. Figuring out logistics, less so. But have no fear—[Stripe](https://stripe.com/) integrates seamlessly with Buttondown to help you collect payments and report taxes related to your paid newsletter. 
 
 ## Getting Started
 
-Here’s what you’ll need to set up paid newsletters through Stripe:
+Here’s what you’ll need to set up your Stripe account:
+
+-   A [paid](https://buttondown.email/pricing) Buttondown account—visit our [pricing](https://buttondown.email/pricing) page for a detailed breakdown of our subscription tiers!
 
 -   Personal information including your name, address, and last four digits of your social security number
     
