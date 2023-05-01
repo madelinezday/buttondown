@@ -6,7 +6,7 @@ Whether you’d like to set up a formal paid subscription program or a fluid pay
 
 To jump-start your paid newsletter, you’ll need:
 
--   A [Stripe](https://stripe.com/docs/tax) account. Don’t worry if you don’t have one yet—we’ll guide you through the process of setting it up!
+-   A [Stripe](https://stripe.com/docs/tax) account. Don’t worry if you don’t have one yet—you can follow along with our [Stripe integration guide] to get your account up and running! 
     
 -   A [paid](https://buttondown.email/pricing) Buttondown account, starting at our “[Basic](https://buttondown.email/pricing)” tier. Buttondown keeps the lights on by charging for premium tools, including “Paid Subscriptions.” This business model not only incentivizes us to create the best writing tool possible, but it also means that we’ll never need to take a cut of your hard-won newsletter earnings.
 
@@ -22,13 +22,11 @@ So you’re thinking of switching your newsletter from a free subscription model
     
 -   If you’re a subscriber and you decide that you no longer want to receive a paid newsletter, simply click “Unsubscribe” as you would with any other newsletter. Pro tip: You can always downgrade your subscription by unsubscribing and then re-subscribing for free.
 
-While these settings can’t be changed in Buttondown, you can customize your payments by using software like [Stripe](https://stripe.com/).
+While these settings can’t be changed in Buttondown, you can customize your payments in [Stripe](https://stripe.com/).
 
 ### Integrate Buttondown with Stripe
 
-Earning money through your newsletter can be fun. Figuring out the logistics, less so. But [Stripe](https://stripe.com/) is here to help by automatically collecting payments and reporting taxes on your behalf.
-
-Buttondown integrates seamlessly with Stripe. We’ve even built a shortcut right into the “Paid Subscriptions” section of your Buttondown settings.
+Buttondown integrates seamlessly with Stripe to automate payments and taxes related to your newsletter. We’ve even built a shortcut right into the “Paid Subscriptions” section of your Buttondown settings.
 
 ![Link to sign up for Stripe through Buttondown](https://github.com/madelinezday/buttondown/blob/main/images/settings/monetizing:link-to-sign-up-for-stripe-tax-hi-res.gif?raw=true)
 
@@ -56,7 +54,7 @@ And here’s how that code will translate to your email footer:
 
 ![Sample email with archive link for paid subscribers](https://github.com/madelinezday/buttondown/blob/main/images/emails/monetizing:sample-email-with-archive-link-in-footer-hi-res.gif?raw=true)
 
-Is shortcode not your style? Instead, venture to your “Subscribers” page in Buttondown and click any given paid subscribers’ email address. Then select the “Archives” button from the menu that pops up. This button will generate a personalized link that you can use to manually invite that subscriber.
+If code's not your style, you can venture to your “Subscribers” page in Buttondown and click any given paid subscribers’ email address. Then select the “Archives” button from the menu that pops up. This button will generate a personalized link that you can use to manually invite that subscriber.
 
 ![Buttondown settings for premium subscriber](https://github.com/madelinezday/buttondown/blob/main/images/subscribers/monetizing:premium-subscriber-notes-hi-res.gif?raw=true)
 
@@ -70,19 +68,19 @@ Your recipient will get a notification via email once the gift subscription goes
 
 ### Offer free trials
 
-Want to give prospective subscribers a sneak peek of your paid content? You can do that through Stripe. 
+Want to give prospective subscribers a sneak peek of your paid content? You can do that through [Stripe](https://stripe.com/docs/tax). 
 
-Hop on over to your “Payment Links” page. Click the three dots next to your payment link in order to edit your link’s settings. Under the “Options” section of the link editor, find the box marked “Include a Free Trial.” Check that box and specify the number of days you’d like to include in that trial. 
+Hop on over to your “Payment Links” page, then click the three dots next to your payment link to edit the link's settings. Under the “Options” section of the link editor, find the box marked “Include a Free Trial.” Check that box and specify the number of days you’d like to include in that trial. 
 
 ![Free trial options in Stripe’s payment link editor](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:free-trial-button-in-stripe-hi-res.gif?raw=true)
 
-This setting in Stripe will allow all prospective subscribers to register for a free trial. 
+This setting will allow *all* prospective subscribers to register for a free trial. If you'd rather only offer free content to a select few subscribers, we recommend sending promo codes. 
 
-### Send coupon codes
+### Send promo codes
 
-The Buttondown team is happy to help you create and send manual coupon codes for discount subscriptions. Reach out to us at support@buttondown.email, and we’ll get your coupon code set up ASAP. 
+The Buttondown team is happy to help you create and send manual promo codes for discount subscriptions. Reach out to us at support@buttondown.email, and we’ll get your coupon code set up ASAP. 
 
-However, it’s also possible (and likely faster) to create coupon codes through Stripe. You can do that by Clicking “Allow Promotion Codes” in the advanced settings of your payment link editor. 
+However, it’s also possible (and likely faster) to create promo codes through Stripe. You can do that by Clicking “Allow Promotion Codes” in the advanced settings of your payment link editor. 
 
 ![Advanced settings in Stripe’s payment link editor](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:promo-code-hi-res.gif?raw=true)
 
