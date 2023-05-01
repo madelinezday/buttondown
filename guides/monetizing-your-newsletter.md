@@ -18,7 +18,7 @@ Got it? Good! Now let’s dive in.
 
 So you’re thinking of switching your newsletter from a free subscription model to a paid one. Here’s what you need to know about Buttondown’s default settings for paid newsletters:
 
--   Paid subscriptions will automatically renew at the end of your billing cycle, whether that’s once a month or once a year. This spares your subscribers from having to manually renew their subscriptions—while also generating more revenue for you!
+-   Paid subscriptions will automatically renew at the end of your designated billing cycle, whether that’s once a month or once a year. This spares your subscribers from having to manually renew their subscriptions—while also generating more revenue for you!
     
 -   If you’re a subscriber and you decide that you no longer want to receive a paid newsletter, simply click “Unsubscribe” as you would with any other newsletter. Pro tip: You can always downgrade your subscription by unsubscribing and then re-subscribing for free.
 
