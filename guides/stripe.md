@@ -24,9 +24,9 @@ Head to the "Paid Subscriptions" section of your [Buttondown](https://buttondown
 
 ![Link to sign up for Stripe through Buttondown](https://github.com/madelinezday/buttondown/blob/main/images/settings/monetizing:link-to-sign-up-for-stripe-tax-hi-res.gif?raw=true)
 
-Once you verify your Buttondown email address and phone number, you’ll be guided through a series of questions to activate payments to your new Stripe account. Stripe will then ask for various personal, business, and bank information including the last four digits of your social security number, your business contact information, and your bank account and routing numbers. 
+Once you verify your Buttondown email address and phone number, you’ll be guided through a series of questions to activate your new Stripe account. Stripe will then ask for various personal, business, and bank information including the last four digits of your social security number, your business contact information, and your bank account and routing numbers. 
 
-For a step-by-step guide on completing this process, check out Stripe’s doc on how to “[Activate Your Account](https://stripe.com/docs/account/activate).” Once you activate your Stripe account, you'll have the opportunity to manage your paid subscriptions in your Buttondown settings. 
+To learn more about the requirements for activating your account, check out Stripe's in-depth [guide](https://stripe.com/docs/account/activate). Once you finish this process, you'll have the opportunity to manage your paid subscriptions in your Buttondown settings. 
 
 ### Add your preferred payment methods
 
@@ -48,7 +48,7 @@ It’s almost time to pop open the bubbly and celebrate your brand-new business.
 
 ### Review your business settings
 
-Stripe automatically reports and collects taxes for to your paid newsletter. We recommend checking out Stripe’s docs on “[Setting Up Stripe Tax](https://stripe.com/docs/tax/set-up)” and “[Collecting Taxes For Recurring Payments](https://stripe.com/docs/tax/subscriptions)” for a full overview on how to make sure your tax information is in ship shape.
+Stripe automatically reports and collects taxes for to your paid newsletter. We recommend Stripe’s docs on “[Setting Up Stripe Tax](https://stripe.com/docs/tax/set-up)” and “[Collecting Taxes For Recurring Payments](https://stripe.com/docs/tax/subscriptions)” for a full overview on how to make sure your tax information is in ship shape.
 
 ## Going Above and Beyond
 
