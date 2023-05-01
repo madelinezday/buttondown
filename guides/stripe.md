@@ -8,7 +8,7 @@ Here’s what you’ll need to set up paid newsletters through Stripe:
 
 -   Personal information including your name, address, and last four digits of your social security number
     
--   Business contact information including an address and contact number for customer service
+-   Business contact information including you address and contact number for customer service
     
 -   Bank information including your account number and routing number
 
@@ -16,11 +16,11 @@ Here’s what you’ll need to set up paid newsletters through Stripe:
 
 ### Set up your Stripe account through Buttondown
 
-Buttondown integrates seamlessly with Stripe. We’ve even built a shortcut right into the “Paid Subscriptions” section of your Buttondown settings.
+We built a shortcut to sign up for Stripe in the "Paid Subscription" section of your Buttondown settings. 
 
 ![Link to sign up for Stripe through Buttondown]()
 
-Once you confirm your new Stripe account’s email and password, you’ll be guided through a series of questions to activate payments. Stripe will ask for various personal, business, and bank information including the last four digits of your social security number, your business address, and your account and routing numbers. For a step-by-step guide on completing this activation process, check out Stripe’s doc on how to “[Activate Your Account](https://stripe.com/docs/account/activate).”
+Once you verify your Buttondown email address and phone number, you’ll be guided through a series of questions to activate payments to your new Stripe account. Stripe will ask for various personal, business, and bank information including the last four digits of your social security number, your business address, and your account and routing numbers. For a step-by-step guide on completing this activation process, check out Stripe’s doc on how to “[Activate Your Account](https://stripe.com/docs/account/activate).”
 
 ### Add your preferred payment methods
 
@@ -48,4 +48,4 @@ Stripe automatically reports and collects taxes for to your paid newsletter. We 
 
 ### Explore ways to monetize your newsletter
 
-Interested in collecting revenue from your newsletter via paid subscriptions? Our doc on “Monetizing Your Newsletter” has all you need and more!
+Interested in setting up paid subscriptions, premium content, or other revenue streams for your newsletter? Our doc on “Monetizing Your Newsletter” is the place to learn more! 
