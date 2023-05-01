@@ -1,6 +1,6 @@
 ﻿# Stripe
 
-Earning money through your newsletter can be fun. Figuring out logistics, less so. But have no fear—[Stripe](https://stripe.com/) integrates seamlessly with Buttondown to help you collect payments and report taxes related to your paid newsletter. 
+Earning money through your newsletter can be fun. Figuring out logistics, less so. But have no fear! [Stripe](https://stripe.com/) integrates seamlessly with Buttondown to collect payments and report taxes for your paid newsletter. 
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Here’s what you’ll need to set up your Stripe account:
 
 ### Set up your Stripe account through Buttondown
 
-We built a shortcut to sign up for Stripe in the "Paid Subscription" section of your Buttondown settings. 
+Head to the "Paid Subscriptions" section of your Buttondown settings. You'll find a built-in shortcut to integrate your Buttondown account with Stripe. 
 
 ![Link to sign up for Stripe through Buttondown](https://github.com/madelinezday/buttondown/blob/main/images/settings/monetizing:link-to-sign-up-for-stripe-tax-hi-res.gif?raw=true)
 
