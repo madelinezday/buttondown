@@ -14,7 +14,7 @@ Got it? Good! Now let’s dive in.
 
 ## Setting Up Paid Newsletters
 
-### Review Buttondown's standard practices
+### Review Buttondown's standard practices for paid newsletters
 
 So you’re thinking of switching your newsletter from a free subscription model to a paid one. Here’s what you need to know about Buttondown’s default settings for paid newsletters:
 
@@ -30,7 +30,7 @@ Buttondown integrates seamlessly with Stripe to automate payments and taxes rela
 
 ![Link to sign up for Stripe through Buttondown](https://github.com/madelinezday/buttondown/blob/main/images/settings/monetizing:link-to-sign-up-for-stripe-tax-hi-res.gif?raw=true)
 
-Follow along with our step-by-step [Stripe integration guide] to get your account up and running. 
+Follow along with our step-by-step [Stripe integration guide] to learn how to activate your account and create payment links for paid subscriptions.
 
 ## Offering Perks for Paid Subscribers
 
