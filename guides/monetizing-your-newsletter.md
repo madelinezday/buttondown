@@ -84,7 +84,7 @@ However, it’s also possible (and likely faster) to create promo codes through 
 
 ![Advanced settings in Stripe’s payment link editor](https://github.com/madelinezday/buttondown/blob/main/images/stripe/monetizing:promo-code-hi-res.gif?raw=true)
 
-For further information, follow along with Stripe’s “Discounts For Subscriptions” doc.
+For further information, follow along with Stripe’s “[Discounts For Subscriptions](https://stripe.com/docs/billing/subscriptions/coupons#promotion-codes--promotion-codes)” doc.
 
 ## Setting Up Free Newsletters with Paid Features
 
