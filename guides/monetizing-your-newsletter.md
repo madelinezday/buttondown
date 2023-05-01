@@ -48,7 +48,7 @@ Buttondown automatically adds an extended version of this shortcode to the foote
 
 You can always edit your footer in the “[Scaffolding](https://buttondown.email/settings#scaffolding)” section of your Buttondown settings. Here’s what that process looks like:
 
-![Buttondown’s “Scaffolding” settings](https://github.com/madelinezday/buttondown/blob/main/images/settings/monetizing:email-footer-settings-hi-res.gif?raw=true)
+![“Scaffolding” section in Buttondown settings](https://github.com/madelinezday/buttondown/blob/main/images/settings/monetizing:email-footer-settings-hi-res.gif?raw=true)
 
 And here’s how that code will translate to your email footer:
 
