@@ -1,28 +1,32 @@
 ﻿# Stripe
 
-Earning money through your newsletter can be fun. Figuring out logistics, less so. But have no fear! [Stripe](https://stripe.com/) integrates seamlessly with Buttondown to collect payments and report taxes for your paid newsletter. 
+Earning money through your newsletter can be fun. Figuring out logistics, less so. But have no fear! [Stripe](https://stripe.com/)'s here to save the day by collecting payments and reporting taxes for your Buttondown newsletter.
 
 ## Getting Started
 
 Here’s what you’ll need to set up your Stripe account:
 
--   A [paid](https://buttondown.email/pricing) Buttondown account—visit our [pricing](https://buttondown.email/pricing) page for a detailed breakdown of our subscription tiers!
+-   A [paid](https://buttondown.email/pricing) Buttondown account—visit our [pricing](https://buttondown.email/pricing) page for a detailed breakdown of our membership tiers!
 
--   Personal information including your name, address, and last four digits of your social security number
+-   Personal information such as your name, address, and last four digits of your social security number
     
--   Business contact information including you address and contact number for customer service
-    
--   Bank information including your account number and routing number
+-   Business information, including an address and contact number for customer service
+
+-   Bank information, namely your account number and routing number 
+
+Ready? Let's do this!
 
 ## Integrating Buttondown with Stripe
 
 ### Set up your Stripe account through Buttondown
 
-Head to the "Paid Subscriptions" section of your Buttondown settings. You'll find a built-in shortcut to integrate your Buttondown account with Stripe. 
+Head to the "Paid Subscriptions" section of your [Buttondown](https://buttondown.email/settings) settings. You'll find a built-in shortcut to integrate your Buttondown account with Stripe. 
 
 ![Link to sign up for Stripe through Buttondown](https://github.com/madelinezday/buttondown/blob/main/images/settings/monetizing:link-to-sign-up-for-stripe-tax-hi-res.gif?raw=true)
 
-Once you verify your Buttondown email address and phone number, you’ll be guided through a series of questions to activate payments to your new Stripe account. Stripe will ask for various personal, business, and bank information including the last four digits of your social security number, your business address, and your account and routing numbers. For a step-by-step guide on completing this activation process, check out Stripe’s doc on how to “[Activate Your Account](https://stripe.com/docs/account/activate).”
+Once you verify your Buttondown email address and phone number, you’ll be guided through a series of questions to activate payments to your new Stripe account. Stripe will then ask for various personal, business, and bank information including the last four digits of your social security number, your business contact information, and your bank account and routing numbers. 
+
+For a step-by-step guide on completing this process, check out Stripe’s doc on how to “[Activate Your Account](https://stripe.com/docs/account/activate).” Once you activate your Stripe account, you'll have the opportunity to manage your paid subscriptions in your Buttondown settings. 
 
 ### Add your preferred payment methods
 
